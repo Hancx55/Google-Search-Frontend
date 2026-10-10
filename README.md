@@ -1,4 +1,4 @@
-# **Google Search Front-End**
+# **Google Search Front-End** - August 2026
 
 A front-end clone of Google Search focusing on using GET parameters, form submission and user interface.
 
