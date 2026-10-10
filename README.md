@@ -41,3 +41,11 @@ This project was completed as part of an online web development course and consi
 3. Ensure JavaScript is enabled and internet is available
 
 ---
+
+## Demo:
+**Google Search**
+<img width="1280" height="688" alt="ezgif-7f00d68f91f4caee" src="https://github.com/user-attachments/assets/dca09948-7579-4b40-bea6-905cae9a4079" />
+
+**Google Advanced Search**
+<img width="1280" height="688" alt="ezgif-72cb2d0d091d752a" src="https://github.com/user-attachments/assets/4c035b38-9378-4267-ab82-83fa14876da6" />
+
