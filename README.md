@@ -1,4 +1,4 @@
-# **Google Search Front-End** - August 2026
+# **Google Search Front-End**          
 
 A front-end clone of Google Search focusing on using GET parameters, form submission and user interface.
 
@@ -43,9 +43,18 @@ This project was completed as part of an online web development course and consi
 ---
 
 ## Demo:
+
+
 **Google Search**
+
 <img width="1280" height="688" alt="ezgif-7f00d68f91f4caee" src="https://github.com/user-attachments/assets/dca09948-7579-4b40-bea6-905cae9a4079" />
 
+---
+
 **Google Advanced Search**
+
 <img width="1280" height="688" alt="ezgif-72cb2d0d091d752a" src="https://github.com/user-attachments/assets/4c035b38-9378-4267-ab82-83fa14876da6" />
 
+---
+
+Date Developed: August 2026
